@@ -1,4 +1,10 @@
 {
   "name": "menirka-2",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "description": "Fetch market data from frighdimi and format like old market-data",
+  "main": "index.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {}
 }
